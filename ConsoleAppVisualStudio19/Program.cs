@@ -7,6 +7,7 @@ namespace ConsoleAppVisualStudio19
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Dame tu fuerza Pegaso!");
         }
     }
 }
